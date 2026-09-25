@@ -17,6 +17,10 @@ module = "gno.land/p/demo/math/bignum/v3"
 source = { dir = "p/demo/math/bignum" }
 
 [[module]]
+module = "gno.land/p/demo/orphan/v0"
+source = { dir = "p/demo/orphan" }
+
+[[module]]
 module = "gno.land/p/demo/set/v0"
 source = { dir = "p/demo/set" }
 
