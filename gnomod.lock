@@ -12,6 +12,10 @@ module = "gno.land/p/demo/math/bignum/v0"
 source = { dir = "p/demo/math/bignum" }
 
 [[module]]
+module = "gno.land/p/demo/set/v0"
+source = { dir = "p/demo/set" }
+
+[[module]]
 module = "gno.land/p/demo/strs/v0"
 source = { commit = "551977945cb3ba6478e9e6181f244206ab4a622f", dir = "p/demo/strs/v0" }
 hash = "h1:/A1CIWwCxDZ4cf9ntIOoDQHbk7VOUB3EyDhB4w5WgUY="
