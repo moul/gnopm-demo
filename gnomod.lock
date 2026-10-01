@@ -9,6 +9,11 @@ lock = 1
 
 [[module]]
 module = "gno.land/p/demo/math/bignum/v0"
+source = { commit = "9bd62d71e07f6135197d615d7f86c3e544c8a20e", dir = "p/demo/math/bignum" }
+hash = "h1:z1+POxO/eV4xaRFcJcmUle3dOowrEbDBWHA1pV+M8yg="
+
+[[module]]
+module = "gno.land/p/demo/math/bignum/v3"
 source = { dir = "p/demo/math/bignum" }
 
 [[module]]
