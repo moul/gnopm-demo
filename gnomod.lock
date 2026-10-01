@@ -26,6 +26,11 @@ source = { dir = "p/demo/strs" }
 
 [[module]]
 module = "gno.land/p/demo/table/v0"
+source = { commit = "beed432803bf466b5bb934c1256e47ec09a3f339", dir = "p/demo/table" }
+hash = "h1:5z8IDimCUM06Desn3yhZKELz6hQjxWN6hCCYkQe6GtE="
+
+[[module]]
+module = "gno.land/p/demo/table/v1"
 source = { dir = "p/demo/table" }
 
 [[module]]
